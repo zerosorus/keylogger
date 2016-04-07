@@ -7,12 +7,14 @@
 #   it under the terms of the GNU General Public License as published by
 #   the Free Software Foundation; either version 2 of the License, or
 #   (at your option) any later version.
-#
+#	
+#	
 #	
 
 
 import pyxhook
 import time
+import sys
 
 #This function is called every time a key is presssed
 def kbevent( event ):
