@@ -1,6 +1,7 @@
 This license applies to all files in this repository that do not have 
 another license otherwise indicated.
 
+pyxhook copyright belongs to as below: 
 Copyright (c) 2014, Jeff Hoogland
 All rights reserved.
 
